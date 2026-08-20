@@ -3,25 +3,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F6FEB,100:58A6FF&height=200&section=header&text=Emre%20Bulut&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Electrical%20%26%20Electronics%20Engineering%20Student&descAlignY=57&descSize=16" width="100%" alt="Emre Bulut" />
 
 <a href="https://emrebulut.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&height=45&lines=Computer+Vision+%26+Edge+AI;Model+Training+%26+Dataset+Engineering;Embedded+Systems+%26+IoT+Telemetry;Power+Systems+%26+Enterprise+Virtualization" alt="Focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&height=45&lines=AI%2C+Deep+Learning+%26+LLMs;RF+%26+Microwave+Engineering;Machine+Learning+on+SDR+%2F+IQ+Signals;Hardware-Software+Integration" alt="Focus areas" />
 </a>
 
 <br />
 
-<a href="https://emrebulut.tech">
-  <img src="https://img.shields.io/badge/Portfolio-emrebulut.tech-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<a href="https://emrebulut.tech" title="Portfolio — emrebulut.tech">
+  <img height="34" src="https://img.shields.io/badge/-%231F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/emre-bulut-212b42200/">
-  <img src="https://img.shields.io/badge/LinkedIn-Emre%20Bulut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+&nbsp;
+<a href="https://www.linkedin.com/in/emre-bulut-212b42200/" title="LinkedIn">
+  <img height="34" src="https://img.shields.io/badge/-%230A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNNDE2IDMySDMxLjlDMTQuMyAzMiAwIDQ2LjUgMCA2NC4zdjM4My40QzAgNDY1LjUgMTQuMyA0ODAgMzEuOSA0ODBINDE2YzE3LjYgMCAzMi0xNC41IDMyLTMyLjNWNjQuM2MwLTE3LjgtMTQuNC0zMi4zLTMyLTMyLjN6TTEzNS40IDQxNkg2OVYyMDIuMmg2Ni41VjQxNnptLTMzLjItMjQzYy0yMS4zIDAtMzguNS0xNy4zLTM4LjUtMzguNVM4MC45IDk2IDEwMi4yIDk2YzIxLjIgMCAzOC41IDE3LjMgMzguNSAzOC41IDAgMjEuMy0xNy4yIDM4LjUtMzguNSAzOC41em0yODIuMSAyNDNoLTY2LjRWMzEyYzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlWNDE2aC02Ni40VjIwMi4yaDYzLjd2MjkuMmguOWM4LjktMTYuOCAzMC42LTM0LjUgNjIuOS0zNC41IDY3LjIgMCA3OS43IDQ0LjMgNzkuNyAxMDEuOVY0MTZ6Ii8%2BPC9zdmc%2B" alt="LinkedIn" />
 </a>
-<a href="mailto:emrebulutf@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-emrebulutf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+&nbsp;
+<a href="mailto:emrebulutf@gmail.com" title="emrebulutf@gmail.com">
+  <img height="34" src="https://img.shields.io/badge/-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/emrefbulut">
-  <img src="https://img.shields.io/badge/GitHub-emrefbulut-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+&nbsp;
+<a href="https://github.com/emrefbulut" title="GitHub">
+  <img height="34" src="https://img.shields.io/badge/-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://pypi.org/user/emre.bulut/">
-  <img src="https://img.shields.io/badge/PyPI-emre.bulut-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
+&nbsp;
+<a href="https://pypi.org/user/emre.bulut/" title="PyPI">
+  <img height="34" src="https://img.shields.io/badge/-%233775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
 </a>
 
 <br /><br />
@@ -34,13 +38,16 @@
 
 ## About me
 
-I'm an Electrical & Electronics Engineering student at **Istanbul Medipol University**, based in Istanbul, Türkiye. My work sits where models meet hardware: training and fine-tuning **computer vision** models, optimizing them to run on **edge devices**, and wiring them into real electrical systems that have to behave correctly outside a notebook.
+I'm an Electrical & Electronics Engineering student at **Istanbul Medipol University**, based in Istanbul, Türkiye. My focus is bringing **AI, deep learning and LLMs** into **RF and microwave engineering** — the two halves of my degree that most people keep in separate rooms.
 
-I care about the parts of a project that usually get skipped — how the data was split, whether a measurement is trustworthy, what the system does when a threshold is crossed at 3 a.m. Alongside the engineering side, hands-on experience with **enterprise virtualization** (VMware vSphere) and **Red Hat Enterprise Linux** administration shapes how I think about reliability and system architecture.
+That intersection is where the interesting problems live. RF data is abundant, high-rate and badly served by generic ML tooling: spectrum, IQ streams and SigMF captures don't behave like images or text, and their failure modes are quiet. **IQForge**, my first published Python package, came directly out of that — it turns SDR captures into PyTorch datasets that can't silently leak between train and test.
 
-- **Computer vision & model training** — dataset construction, labeling, fine-tuning, edge deployment
-- **Hardware–software integration** — sensor acquisition, embedded control, relay and actuator logic
-- **Systems & infrastructure** — virtualization, Linux administration, network topology, telemetry pipelines
+Around that core I work on hardware–software integration, putting models on edge devices and wiring them into real electrical systems, and I bring hands-on **enterprise virtualization** (VMware vSphere) and **Red Hat Enterprise Linux** experience to how I think about reliability and system architecture.
+
+- **AI & deep learning** — model training, fine-tuning, dataset engineering, LLMs
+- **RF & microwave** — SDR/IQ signal processing, SigMF pipelines, machine learning on RF
+- **Hardware–software integration** — edge deployment, embedded control, telemetry
+- **Systems & infrastructure** — virtualization, Linux administration, network topology
 
 ---
 
@@ -50,35 +57,37 @@ I care about the parts of a project that usually get skipped — how the data wa
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/emrefbulut/iqforge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emrefbulut&repo=iqforge&bg_color=00000000&title_color=1F6FEB&text_color=6E7681&icon_color=1F6FEB&hide_border=true" alt="IQForge" />
-</a>
+<h3 align="center"><a href="https://github.com/emrefbulut/iqforge">IQForge</a></h3>
 
-<p>My first <b>published Python package</b>, installable from PyPI with <code>pip install iqforge</code>. Splitting SDR recordings at the <b>window</b> level lets neighbouring windows leak across train and test, inflating reported accuracy by up to <b>13.6 points</b>. IQForge splits at the <b>recording</b> level instead, reads SigMF directly, and fails loudly instead of silently degrading when stratification is impossible.</p>
+<p align="center">
+  <a href="https://pypi.org/project/iqforge/"><img src="https://img.shields.io/pypi/v/iqforge?style=flat-square&logo=pypi&logoColor=white&label=PyPI&color=3775A9" alt="PyPI version" /></a>
+  <img src="https://img.shields.io/badge/License-MIT-6E7681?style=flat-square" alt="MIT" />
+</p>
 
-<p>
+<p>My first <b>published Python package</b> — <code>pip install iqforge</code>. Splitting SDR recordings at the <b>window</b> level lets neighbouring windows leak across train and test, inflating reported accuracy by up to <b>13.6 points</b>. IQForge splits at the <b>recording</b> level instead, reads SigMF directly, balances metadata that would otherwise create hidden correlations, and fails loudly rather than degrading silently when stratification is impossible.</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/SDR%20%2F%20SigMF-4C1D95?style=flat-square" alt="SDR / SigMF" />
 </p>
 
-<p>
-<a href="https://pypi.org/project/iqforge/"><img src="https://img.shields.io/pypi/v/iqforge?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=3775A9" alt="Published on PyPI" /></a>
-</p>
-
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/emrefbulut/RoomGate-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emrefbulut&repo=RoomGate-AI&bg_color=00000000&title_color=1F6FEB&text_color=6E7681&icon_color=1F6FEB&hide_border=true" alt="RoomGate-AI" />
-</a>
+<h3 align="center"><a href="https://github.com/emrefbulut/RoomGate-AI">RoomGate&#8209;AI</a></h3>
 
-<p>A smart access and occupancy prototype that turns detections into physical action. An edge-optimized <b>YOLO26</b> detector with spatial region-of-interest filtering drives a relay-based lock, so the vision pipeline and the door actually stay in sync.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-0F766E?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Edge-1F6FEB?style=flat-square" alt="Edge" />
+</p>
 
-<p>
+<p>A smart access and occupancy system that turns detections into physical action. An edge-optimized <b>YOLO26</b> detector with spatial region-of-interest filtering drives a relay-based lock, so the vision pipeline and the door stay in sync instead of drifting apart.</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/YOLO26-00B0FF?style=flat-square&logoColor=white" alt="YOLO26" />
-<img src="https://img.shields.io/badge/Edge%20Computing-0F766E?style=flat-square" alt="Edge Computing" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 </td>
@@ -86,13 +95,16 @@ I care about the parts of a project that usually get skipped — how the data wa
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/emrefbulut/IoT-Smart-Energy-Monitor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emrefbulut&repo=IoT-Smart-Energy-Monitor&bg_color=00000000&title_color=1F6FEB&text_color=6E7681&icon_color=1F6FEB&hide_border=true" alt="IoT Smart Energy Monitor" />
-</a>
+<h3 align="center"><a href="https://github.com/emrefbulut/IoT-Smart-Energy-Monitor">IoT Smart Energy Monitor</a></h3>
 
-<p>Three layers, one loop: an <b>ESP32 + PZEM-004T</b> front end for raw AC measurement, a Python bridge computing active/apparent/reactive power and cumulative kWh, and a live dashboard on top. Anomalies trigger alerts, and load shedding is protected by hysteresis and a confirmation window.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT%20Telemetry-B45309?style=flat-square" alt="IoT Telemetry" />
+  <img src="https://img.shields.io/badge/License-MIT-6E7681?style=flat-square" alt="MIT" />
+</p>
 
-<p>
+<p>Three layers, one loop: an <b>ESP32 + PZEM&#8209;004T</b> front end for raw AC measurement, a Python bridge computing active/apparent/reactive power and cumulative kWh, and a live dashboard on top. Anomalies raise alerts, events are written asynchronously to SQLite in WAL mode, and load shedding is guarded by hysteresis and a confirmation window.</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
 <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
@@ -102,16 +114,19 @@ I care about the parts of a project that usually get skipped — how the data wa
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/emrefbulut/VoltPilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emrefbulut&repo=VoltPilot&bg_color=00000000&title_color=1F6FEB&text_color=6E7681&icon_color=1F6FEB&hide_border=true" alt="VoltPilot" />
-</a>
+<h3 align="center"><a href="https://github.com/emrefbulut/VoltPilot">VoltPilot</a></h3>
 
-<p>Sites planning EV charging investments rarely know whether their grid connection can take the load. VoltPilot simulates it before anything is installed — transformer loading, battery dispatch, virtual grid signals, telemetry validation and generated engineering reports.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20Systems-1E40AF?style=flat-square" alt="Power Systems" />
+  <img src="https://img.shields.io/badge/License-MIT-6E7681?style=flat-square" alt="MIT" />
+</p>
 
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Grid%20Simulation-B45309?style=flat-square" alt="Grid Simulation" />
-<img src="https://img.shields.io/badge/Power%20Systems-1E40AF?style=flat-square" alt="Power Systems" />
+<p>Sites planning EV charging investments rarely know in advance whether their grid connection can take the load. VoltPilot simulates it before anything is installed — transformer loading, battery dispatch, virtual grid signals, telemetry validation and generated engineering reports, so the decision rests on data instead of a guess.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Grid%20Simulation-0F766E?style=flat-square" alt="Grid Simulation" />
+<img src="https://img.shields.io/badge/EV%20Charging-047857?style=flat-square" alt="EV Charging" />
+<img src="https://img.shields.io/badge/Telemetry-6D28D9?style=flat-square" alt="Telemetry" />
 </p>
 
 </td>
@@ -123,24 +138,32 @@ I care about the parts of a project that usually get skipped — how the data wa
 ## Tech Stack
 
 <div align="center">
-
 <table>
+<tr>
+<td align="right" valign="middle"><b>AI &amp; Deep Learning</b></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/YOLO-00B0FF?style=for-the-badge&logoColor=white" alt="YOLO" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</td>
+</tr>
+<tr>
+<td align="right" valign="middle"><b>RF &amp; Signal Processing</b></td>
+<td>
+<img src="https://img.shields.io/badge/SDR%20%2F%20IQ-4C1D95?style=for-the-badge" alt="SDR / IQ" />
+<img src="https://img.shields.io/badge/SigMF-6D28D9?style=for-the-badge" alt="SigMF" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+</td>
+</tr>
 <tr>
 <td align="right" valign="middle"><b>Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-</td>
-</tr>
-<tr>
-<td align="right" valign="middle"><b>AI &amp; Vision</b></td>
-<td>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/YOLO-00B0FF?style=for-the-badge&logoColor=white" alt="YOLO" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </td>
 </tr>
 <tr>
@@ -156,7 +179,7 @@ I care about the parts of a project that usually get skipped — how the data wa
 <td align="right" valign="middle"><b>Systems</b></td>
 <td>
 <img src="https://img.shields.io/badge/VMware%20vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware vSphere" />
-<img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" />
+<img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Enterprise Linux" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </td>
 </tr>
@@ -169,7 +192,6 @@ I care about the parts of a project that usually get skipped — how the data wa
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
@@ -178,10 +200,26 @@ I care about the parts of a project that usually get skipped — how the data wa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=emrefbulut&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=1F6FEB&text_color=6E7681&icon_color=1F6FEB&hide_border=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrefbulut&layout=compact&langs_count=8&bg_color=00000000&title_color=1F6FEB&text_color=6E7681&hide_border=true" height="170" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrefbulut&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrefbulut&theme=github" alt="Profile details" />
+</picture>
 
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrefbulut&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrefbulut&theme=github" alt="Repositories per language" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrefbulut&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrefbulut&theme=github" alt="Most commit language" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emrefbulut&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emrefbulut&theme=github" alt="Stats" />
+</picture>
+
+<br /><br />
 
 <img src="https://streak-stats.demolab.com?user=emrefbulut&background=00000000&ring=1F6FEB&fire=1F6FEB&currStreakNum=6E7681&sideNums=6E7681&currStreakLabel=1F6FEB&sideLabels=6E7681&dates=6E7681&hide_border=true" alt="GitHub streak" />
 
