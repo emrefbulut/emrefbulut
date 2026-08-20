@@ -1,0 +1,62 @@
+name: Update profile stats
+
+# The GitHub Stats cards are the only part of the README that needs live data.
+# Rather than let the README point at a third-party card service (which takes
+# the profile down with it whenever it is rate limited or offline), this
+# workflow regenerates the cards into assets/ and commits them.
+#
+# Failure mode is deliberately safe: if the API call, the generator or the SVG
+# validation fails, nothing is committed and the previously generated cards stay
+# in the repository. The README keeps rendering the last known-good output.
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Regenerate stat cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --omit=dev
+
+      - name: Generate stat cards
+        run: node tools/gen-stats.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_LOGIN: ${{ github.repository_owner }}
+
+      - name: Validate every SVG
+        run: node tools/check-svg.js
+
+      - name: Commit refreshed cards
+        run: |
+          if [ -z "$(git status --porcelain -- assets)" ]; then
+            echo "Stat cards are unchanged; nothing to commit."
+            exit 0
+          fi
+
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- assets
+          git commit -m 'chore(assets): refresh generated GitHub stat cards'
+          git push

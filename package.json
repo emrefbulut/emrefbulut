@@ -1,0 +1,27 @@
+{
+  "name": "emrefbulut-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generators for the self-hosted assets used by the emrefbulut profile README",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "badges": "node tools/gen-badges.js",
+    "typing": "node tools/gen-typing.js",
+    "stats": "node tools/gen-stats.js",
+    "check": "node tools/check-svg.js",
+    "build": "npm run badges && npm run typing && npm run check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrefbulut/emrefbulut.git"
+  },
+  "dependencies": {
+    "badge-maker": "^6.0.0",
+    "fast-xml-parser": "^5.11.0",
+    "simple-icons": "^16.28.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
+  }
+}
