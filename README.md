@@ -38,11 +38,7 @@
 
 ## About me
 
-I'm an Electrical & Electronics Engineering student at **Istanbul Medipol University**, based in Istanbul, Türkiye. My focus is bringing **AI, deep learning and LLMs** into **RF and microwave engineering** — the two halves of my degree that most people keep in separate rooms.
-
-That intersection is where the interesting problems live. RF data is abundant, high-rate and badly served by generic ML tooling: spectrum, IQ streams and SigMF captures don't behave like images or text, and their failure modes are quiet. **IQForge**, my first published Python package, came directly out of that — it turns SDR captures into PyTorch datasets that can't silently leak between train and test.
-
-Around that core I work on hardware–software integration, putting models on edge devices and wiring them into real electrical systems, and I bring hands-on **enterprise virtualization** (VMware vSphere) and **Red Hat Enterprise Linux** experience to how I think about reliability and system architecture.
+I'm an Electrical & Electronics Engineering student at **Istanbul Medipol University**, based in Istanbul, Türkiye. My focus is bringing **AI, deep learning and LLMs** into **RF and microwave engineering** 
 
 - **AI & deep learning** — model training, fine-tuning, dataset engineering, LLMs
 - **RF & microwave** — SDR/IQ signal processing, SigMF pipelines, machine learning on RF
