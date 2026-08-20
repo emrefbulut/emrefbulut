@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="200" viewBox="0 0 854 200">
+  <title>Emre Bulut &#8212; Electrical &amp; Electronics Engineering Student</title>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#1F6FEB"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="200" fill="url(#base)"/>
+
+  <path fill="url(#wave)" opacity="0.4" d="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="0s"
+      calcMode="spline" keyTimes="0;0.333;0.667;1"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z"/>
+  </path>
+
+  <path fill="url(#wave)" opacity="0.4" d="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="-10s"
+      calcMode="spline" keyTimes="0;0.333;0.667;1"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z"/>
+  </path>
+
+  <text x="427" y="98" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="54" font-weight="700" letter-spacing="1" fill="#FFFFFF">Emre Bulut</text>
+
+  <text x="427" y="132" text-anchor="middle"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="16" font-weight="500" letter-spacing="0.6" fill="#C9D1D9">Electrical &amp; Electronics Engineering Student</text>
+</svg>

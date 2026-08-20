@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="120" viewBox="0 0 854 120">
+  <title>Decorative wave</title>
+  <defs>
+    <linearGradient id="waveFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="45%" stop-color="#1F6FEB"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#waveFooter)" opacity="0.4" d="M0 120L 0 45Q 213.5 10 427 40T 854 25L 854 120 Z">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="0s"
+      calcMode="spline" keyTimes="0;0.333;0.667;1"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 120L 0 45Q 213.5 10 427 40T 854 25L 854 120 Z;M0 120L 0 25Q 213.5 20 427 20T 854 45L 854 120 Z;M0 120L 0 15Q 213.5 45 427 15T 854 45L 854 120 Z;M0 120L 0 45Q 213.5 10 427 40T 854 25L 854 120 Z"/>
+  </path>
+
+  <path fill="url(#waveFooter)" opacity="0.4" d="M0 120L 0 30Q 213.5 0 427 20T 854 15L 854 120 Z">
+    <animate attributeName="d" dur="20s" repeatCount="indefinite" begin="-10s"
+      calcMode="spline" keyTimes="0;0.333;0.667;1"
+      keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+      values="M0 120L 0 30Q 213.5 0 427 20T 854 15L 854 120 Z;M0 120L 0 20Q 213.5 40 427 40T 854 25L 854 120 Z;M0 120L 0 25Q 213.5 35 427 15T 854 5L 854 120 Z;M0 120L 0 30Q 213.5 0 427 20T 854 15L 854 120 Z"/>
+  </path>
+</svg>

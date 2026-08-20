@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F6FEB,100:58A6FF&height=200&section=header&text=Emre%20Bulut&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Electrical%20%26%20Electronics%20Engineering%20Student&descAlignY=57&descSize=16" width="100%" alt="Emre Bulut" />
+<img src="assets/header.svg" width="100%" alt="Emre Bulut — Electrical &amp; Electronics Engineering Student" />
 
 <a href="https://emrebulut.tech">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&height=45&lines=AI%2C+Deep+Learning+%26+LLMs;RF+%26+Microwave+Engineering;Machine+Learning+on+SDR+%2F+IQ+Signals;Hardware-Software+Integration" alt="Focus areas" />
@@ -220,4 +220,4 @@ I'm an Electrical & Electronics Engineering student at **Istanbul Medipol Univer
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,45:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
