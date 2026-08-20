@@ -1,0 +1,8 @@
+# The generators emit LF. Pinning the checkout keeps a Windows working copy from
+# rewriting every asset to CRLF, which would otherwise make the stats workflow
+# see a diff on every run and commit churn with no content change.
+*.svg   text eol=lf
+*.js    text eol=lf
+*.yml   text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf

@@ -10,6 +10,8 @@
     "typing": "node tools/gen-typing.js",
     "stats": "node tools/gen-stats.js",
     "check": "node tools/check-svg.js",
+    "preview": "node tools/preview.js",
+    "verify:live": "node tools/verify-live.js",
     "build": "npm run badges && npm run typing && npm run check"
   },
   "repository": {
