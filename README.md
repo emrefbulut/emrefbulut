@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Emre Bulut — Electrical &amp; Electronics Engineering Student" />
+<img src="assets/header.svg" width="100%" alt="Emre Bulut - Electrical &amp; Electronics Engineering Student" />
 
 <a href="https://emrebulut.tech">
   <img src="assets/typing.svg" width="700" alt="AI, Deep Learning &amp; LLMs · RF &amp; Microwave Engineering · Machine Learning on SDR / IQ Signals · Hardware-Software Integration" />
@@ -40,10 +40,10 @@
 
 I'm an Electrical & Electronics Engineering student at **Istanbul Medipol University**, based in Istanbul, Türkiye. My focus is bringing **AI, deep learning and LLMs** into **RF and microwave engineering** 
 
-- **AI & deep learning** — model training, fine-tuning, dataset engineering, LLMs
-- **RF & microwave** — SDR/IQ signal processing, SigMF pipelines, machine learning on RF
-- **Hardware–software integration** — edge deployment, embedded control, telemetry
-- **Systems & infrastructure** — virtualization, Linux administration, network topology
+- **AI & deep learning** - model training, fine-tuning, dataset engineering, LLMs
+- **RF & microwave** - SDR/IQ signal processing, SigMF pipelines, machine learning on RF
+- **Hardware–software integration** - edge deployment, embedded control, telemetry
+- **Systems & infrastructure** - virtualization, Linux administration, network topology
 
 ---
 
@@ -107,7 +107,7 @@ I'm an Electrical & Electronics Engineering student at **Istanbul Medipol Univer
   <img src="assets/proj-voltpilot-top.svg" alt="Power Systems, MIT licence" />
 </p>
 
-<p>Sites planning EV charging investments rarely know in advance whether their grid connection can take the load. VoltPilot simulates it before anything is installed — transformer loading, battery dispatch, virtual grid signals, telemetry validation and generated engineering reports, so the decision rests on data instead of a guess.</p>
+<p>Sites planning EV charging investments rarely know in advance whether their grid connection can take the load. VoltPilot simulates it before anything is installed - transformer loading, battery dispatch, virtual grid signals, telemetry validation and generated engineering reports, so the decision rests on data instead of a guess.</p>
 
 <p align="center">
 <img src="assets/proj-voltpilot-tech.svg" alt="Grid Simulation, EV Charging, Telemetry" />
