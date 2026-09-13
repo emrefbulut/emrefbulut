@@ -60,7 +60,7 @@ I'm an Electrical & Electronics Engineering student at **Istanbul Medipol Univer
   <img src="assets/proj-iqforge-mit.svg" alt="MIT licence" />
 </p>
 
-<p>My first <b>published Python package</b> — <code>pip install iqforge</code>. Splitting SDR recordings at the <b>window</b> level lets neighbouring windows leak across train and test, inflating reported accuracy by up to <b>13.6 points</b>. IQForge splits at the <b>recording</b> level instead, reads SigMF directly, balances metadata that would otherwise create hidden correlations, and fails loudly rather than degrading silently when stratification is impossible.</p>
+<p>My first <b>published Python package</b> - <code>pip install iqforge</code>. Splitting SDR recordings at the <b>window</b> level lets neighbouring windows leak across train and test, inflating reported accuracy by up to <b>13.6 points</b>. IQForge splits at the <b>recording</b> level instead, reads SigMF directly, balances metadata that would otherwise create hidden correlations, and fails loudly rather than degrading silently when stratification is impossible.</p>
 
 <p align="center">
 <img src="assets/proj-iqforge-tech.svg" alt="Python, PyTorch, SDR / SigMF" />
